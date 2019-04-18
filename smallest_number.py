@@ -10,6 +10,6 @@ for i in range(len(list_numbers)):
 
 print(min_number)
 
-# The function below min() will search through the list and return the smallest number
+# The method below min() will search through the list and return the smallest number
 
 #print(min(list_numbers))
