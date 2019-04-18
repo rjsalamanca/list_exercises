@@ -1,6 +1,9 @@
 # list_exercises
 
 ## Sum the Numbers
+
+** Solution is stored in: sum_the_numbers.py **
+
 Given an list of numbers, print their sum. When I say given something, just make something up and store it in a variable.
 
 ## Largest Number
